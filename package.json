@@ -10,5 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "basscss": "^8.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.1",
+    "gulp-serve": "^1.2.0"
   }
 }
